@@ -1,10 +1,10 @@
-|P010575|ཕྱུགས་གསོ་བདུད་རྩིའི་རྫིང་བུ། 
+|IC647A90B|ཕྱུགས་གསོ་བདུད་རྩིའི་རྫིང་བུ། 
 | --- | --- 
 |Alternative Title |
 |Author| དགེ་སློང་བློ་བཟང་བསྟན་འཛིན།
 |BDRC ID | W1KG21707
 |Creator | Google OCR
 |Number of Volumes| 1
-|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/P010575)
-|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/P010575/releases/download/v1/chukso_dutsi_i_dzingbu_plain_P010575.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/P010575/releases/download/v1/chukso_dutsi_i_dzingbu_pages_P010575.zip)
+|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/IC647A90B)
+|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/IC647A90B/releases/download/v1/chukso_dutsi_i_dzingbu_plain_IC647A90B.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/IC647A90B/releases/download/v1/chukso_dutsi_i_dzingbu_pages_IC647A90B.zip)
 |<img width="25" src="https://img.icons8.com/plasticine/100/000000/pictures-folder.png"/>  Source Images | [<img width="25" src="https://library.bdrc.io/icons/BUDA-small.svg"> Images of text file open in BUDA](https://library.bdrc.io/show/bdr:W1KG21707)
